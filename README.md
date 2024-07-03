@@ -13,17 +13,17 @@
 
 <br clear="both">
 
-<<<<<<< HEAD
+
 <div align="center">
   <img height="150" src="assets/XOsX.gif"  />
 </div>
 
-=======
+
 <div align="center">
   <img height="150" src="https://i.gifer.com/XOsX.gif"  />
 </div>
 
->>>>>>> 77d6de5a7c65dd362c8720045aad4e9b7faa0bd2
+
 ###
 
 <br clear="both">
