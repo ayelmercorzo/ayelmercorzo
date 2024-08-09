@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <img height="300" src="assets/vegeta.gif"  />
+  <img height="250" src="assets/vegeta.gif"  />
 </div>
 
 
