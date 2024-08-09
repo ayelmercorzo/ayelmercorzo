@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm @ayelmercorzo</h2>
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz<h2 align="left">👋 Hi, I'm @ayelmercorzo</h2>
 <p align="left">
   👀 I'm interested in being a full-stack developer.<br>
   🌱 Currently learning with Campuslands.<br>
@@ -41,7 +41,7 @@
   <a href="https://www.instagram.com/ayelmer_c/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://twitch.tv" target="_blank">
+  <a href="https://www.twitch.tv/ayelmercorzo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
   </a>
   <a href="https://discord.com" target="_blank">
