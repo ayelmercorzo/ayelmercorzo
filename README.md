@@ -1,4 +1,4 @@
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz<h2 align="left">👋 Hi, I'm @ayelmercorzo</h2>
+<h2 align="left">👋 Hi, I'm @ayelmercorzo</h2>
 <p align="left">
   👀 I'm interested in being a full-stack developer.<br>
   🌱 Currently learning with Campuslands.<br>
